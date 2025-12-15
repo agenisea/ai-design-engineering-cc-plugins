@@ -1,0 +1,45 @@
+{
+  "name": "agenisea",
+  "owner": {
+    "name": "Patrick Peña"
+  },
+  "metadata": {
+    "description": "Human-first AI Design Engineer toolkit for Claude Code by Agenisea™",
+    "version": "1.0.0",
+    "repository": "https://github.com/agenisea/ai-design-engineering-cc-plugins"
+  },
+  "plugins": [
+    {
+      "name": "ai-design-engineer",
+      "source": "./claude-code/plugins/ai-design-engineer",
+      "description": "Human-first AI Design Engineer toolkit with 5 specialized personas for resilient agentic systems: Blueprompt (app specs), Brooks (JTBD methodology), Agenisea (multi-agent architecture), Argus (security), and Bliss (human-centered UX).",
+      "version": "1.0.0",
+      "author": {
+        "name": "Patrick Peña"
+      },
+      "license": "MIT",
+      "homepage": "https://github.com/agenisea/ai-design-engineering-cc-plugins",
+      "repository": "https://github.com/agenisea/ai-design-engineering-cc-plugins",
+      "keywords": [
+        "human-first",
+        "human-centered-design",
+        "human-ui-ux",
+        "resilient-ai",
+        "ai-design-engineer",
+        "ai-design-engineering",
+        "ai-engineering",
+        "frontend-design",
+        "multi-agent-architecture",
+        "agentic-applications",
+        "jtbd",
+        "accessibility",
+        "ui-components",
+        "agentic-systems",
+        "agentic-system-design",
+        "agentic",
+        "agent-security",
+        "agent-auth"
+      ]
+    }
+  ]
+}
