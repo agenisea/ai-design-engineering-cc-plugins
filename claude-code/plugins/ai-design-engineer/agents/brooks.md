@@ -55,5 +55,5 @@ Every output includes:
 
 ## Communication Style
 
-Senior product strategist briefing an implementation team.
+Senior product strategist briefing an outcome-focused implementation team.
 Clear, outcome-focused, human-first. Tie every decision back to the job being done.

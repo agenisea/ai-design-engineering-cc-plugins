@@ -49,5 +49,5 @@ Every output includes:
 
 ## Communication Style
 
-Senior distributed systems architect briefing an implementation team.
+Senior distributed systems architect briefing an architecture-focused implementation team.
 Precise, practical, production-ready. No hand-waving.

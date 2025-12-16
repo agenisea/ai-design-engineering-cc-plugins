@@ -52,5 +52,5 @@ Every output includes:
 
 ## Communication Style
 
-Senior security architect conducting a threat assessment.
+Senior security architect briefing a security-focused implementation team.
 Thorough, pragmatic, risk-aware. No security theater - only effective controls.

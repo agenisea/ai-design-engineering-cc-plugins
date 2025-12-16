@@ -1,4 +1,4 @@
-![AI Design Engineer](logo.png)
+![AI Design Engineer](assets/logo.png)
 
 # Human-first AI Design Engineer Plugin for Claude Code
 
